@@ -1,0 +1,115 @@
+# Echonomix Inc. — Full Content for AI Crawlers
+
+Last updated: 2026-05-10
+Canonical URL: https://blockchain.echonomix.com/
+
+---
+
+## What is Echonomix?
+
+Echonomix Inc. is a Northeast Pennsylvania (NEPA) educational technology company creating the world's first NFC-Ready learning blockchain board game — the Founder's Edition Smart-Board. It is patent pending and currently in pre-launch.
+
+The Smart-Board is a Monopoly-style physical board game where every space, card, and token connects to layered educational content about cryptocurrency, blockchain, and Web3 through NFC (Near Field Communication) taps from any phone or tablet. The game is designed for the next generation of crypto literacy, teaching denomination, supply, halving cycles, staking, and decentralized finance through hands-on play.
+
+Echonomix Inc. was founded by Noel Segui, a U.S. veteran and operating engineer based in Clarks Summit, PA. The company headquarters is in the Scranton / NEPA region.
+
+## Founder's Edition Smart-Board
+
+- **Product**: NFC-Ready learning blockchain board game
+- **Status**: Coming soon — pre-launch
+- **Patent**: Pending
+- **Edition**: Founder's Edition (limited first run)
+- **How it works**: Property cards become Web3 walkthroughs. Currency teaches denomination, supply, and halving. Tokens represent live cryptocurrency assets. Tap any space with a phone or tablet via NFC and the Smart-Board layers in real lessons about Bitcoin, Ethereum, staking, and decentralized finance.
+- **Notify list**: noel@solarmason.com
+
+## Origin story — six steps
+
+### Step 1: Mining (DeFi & DApps)
+We started out mining Bitcoin in our loft at the Mill in Scranton, Pennsylvania, USA.
+
+### Step 2: Bitmain ASIC Miners
+Bitmain is the largest producer of Application-Specific Integrated Circuits (ASICs) in the cryptocurrency mining industry. We used Antminer S9 hardware.
+
+### Step 3: Selling Bitcoin
+We sold the Bitcoin we mined while supporting the network's continued growth.
+
+### Step 4: Selling Mining Units
+We started selling mining units on eBay as demand became extraordinary. Listed as "Bitcoin Miner — Antminer S9 W/PSU Pre-Order" priced at $1,300–$3,400 per unit.
+
+### Step 5: Sold Out — ASAP
+Our units sold out in less than 24 hours and we could not keep up with demand. Sixty-day total sales reached $16,600 across 10 units sold.
+
+### Step 6: Investing made more sense
+After doing the math, it made more sense to invest in and hold crypto long-term rather than continue selling hardware.
+
+## Live cryptocurrency market
+
+The Echonomix site displays the top 100 cryptocurrencies by market capitalization, refreshed every minute from CoinGecko's public API. Each asset shows live USD price, 24-hour percent change, market cap, 24-hour trading volume, 7-day price sparkline, and Coinbase Earn staking APY where applicable.
+
+## Highest staking APY on Coinbase (May 2026)
+
+Estimated reward rates from Coinbase's published APYs (after Coinbase commission). Rates float with network conditions:
+
+| Asset | Ticker | Estimated APY | Lock-up period |
+|---|---|---|---|
+| Cosmos | ATOM | ~12.00% | 21 days |
+| Polkadot | DOT | ~9.50% | 28 days |
+| Tezos | XTZ | ~5.40% | ~4 days |
+| Solana | SOL | ~5.10% | ~3 days |
+| Algorand | ALGO | ~4.30% | None |
+| Cardano | ADA | ~3.50% | None |
+| Ethereum | ETH | ~3.20% | Variable |
+
+Stake on Coinbase: https://www.coinbase.com/staking
+
+## Bitcoin halving countdown
+
+The next Bitcoin halving will occur at block height 1,050,000, estimated for April 17, 2028. At that block, the block reward will decrease from 3.125 BTC to 1.5625 BTC. Average block time is approximately 10 minutes. Network: Bitcoin Mainnet.
+
+## Frequently asked questions
+
+### What is the Echonomix Smart-Board?
+The Echonomix Founder's Edition Smart-Board is the world's first NFC-Ready learning blockchain board game. It uses NFC technology so any phone or tablet can tap the board, cards, or tokens to unlock educational lessons about Bitcoin, Ethereum, staking, and Web3.
+
+### When is the Echonomix board game launching?
+Echonomix is pre-launch. The Founder's Edition Smart-Board is coming soon. Sales channels are paused while production is being finalized. Email noel@solarmason.com to be notified at launch.
+
+### Where is Echonomix Inc. located?
+Echonomix Inc. is based in Northeast Pennsylvania (NEPA), specifically the Scranton, PA region of the United States.
+
+### Who founded Echonomix?
+Echonomix was founded by Noel Segui, a U.S. veteran and operating engineer based in Clarks Summit, PA. He began as a Bitcoin miner in a Scranton loft, sold Bitmain Antminer S9 mining hardware on eBay, and pivoted to long-term crypto investing and educational product development.
+
+### Is the Echonomix Smart-Board patented?
+Yes. The Founder's Edition Smart-Board is Patent Pending.
+
+### How does NFC work on the Smart-Board?
+Each space, card, and token on the board contains an NFC tag. When a smartphone or tablet with NFC enabled is tapped against the tag, the device opens the corresponding educational content — videos, walkthroughs, and lessons about that crypto concept.
+
+### What can I learn from the Smart-Board?
+The board teaches blockchain fundamentals, Bitcoin denomination and halving cycles, Ethereum and Web 3.0, staking and DeFi yield, hardware-wallet security, and the difference between mining, staking, and investing.
+
+### Does Echonomix sell the Smart-Board now?
+No. The Smart-Board is currently pre-launch. To be notified when it ships, email noel@solarmason.com.
+
+### What is the highest crypto staking APY on Coinbase right now?
+Cosmos (ATOM) currently offers the highest published staking APY on Coinbase at approximately 12.00%, with a 21-day unbonding period. Polkadot (DOT) follows at ~9.50% with a 28-day lock-up. Rates float with network conditions and Coinbase's trailing-window calculation.
+
+### Can I stake Bitcoin on Coinbase?
+No. Bitcoin uses Proof-of-Work, not Proof-of-Stake, so it cannot be staked. Coinbase staking is available for Ethereum (ETH), Solana (SOL), Cardano (ADA), Cosmos (ATOM), Tezos (XTZ), Polkadot (DOT), and Algorand (ALGO).
+
+### When is the next Bitcoin halving?
+The next Bitcoin halving is estimated for April 2028 at block 1,050,000. The block reward will decrease from 3.125 BTC to 1.5625 BTC.
+
+### Where can I buy crypto?
+Echonomix recommends Coinbase (https://www.coinbase.com/join/segui_a) for beginners, Coinbase Advanced (https://www.coinbase.com/advanced-trade) for active traders, and Coinbase Earn (https://www.coinbase.com/staking) for passive staking rewards.
+
+### What hardware wallets does Echonomix recommend?
+For long-term cold storage: SafePal S1 (https://safepal.io/), Ellipal Titan (https://www.ellipal.com/), or Ledger Nano X (https://www.ledger.com/).
+
+## Contact
+
+- Email (notify list and inquiries): noel@solarmason.com
+- Founder: Noel Segui
+- Region: Northeast Pennsylvania (NEPA), Scranton, PA, USA
+- Domain: https://blockchain.echonomix.com

@@ -1,0 +1,129 @@
+# Echonomix Inc. — robots.txt
+# Last updated: 2026-05
+#
+# Welcome humans and machines alike. We explicitly allow crawling
+# by traditional search engines, AI assistants, and answer engines.
+
+User-agent: *
+Allow: /
+Disallow:
+
+# ============================================================
+# Traditional search engines
+# ============================================================
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# ============================================================
+# AI training + retrieval crawlers
+# (Allowing both training and live-retrieval bots maximizes
+#  citation likelihood on ChatGPT, Claude, Perplexity, etc.)
+# ============================================================
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI / Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Apple Intelligence + Siri
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon / Alexa
+User-agent: Amazonbot
+Allow: /
+
+# Common Crawl (used by many LLMs as training data)
+User-agent: CCBot
+Allow: /
+
+# ByteDance / Doubao
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Mistral / Le Chat
+User-agent: MistralAI-User
+Allow: /
+
+# DiffBot
+User-agent: Diffbot
+Allow: /
+
+# Meta / Llama
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Sitemap discovery
+Sitemap: https://blockchain.echonomix.com/sitemap.xml
+
+# llms.txt for AI crawler guidance (2026 best practice)
+# https://blockchain.echonomix.com/llms.txt
+
+Host: https://blockchain.echonomix.com

@@ -1,0 +1,37 @@
+# Echonomix Inc.
+
+> Echonomix Inc. is a U.S.-based educational technology company creating the world's first NFC-Ready learning blockchain board game. The Founder's Edition Smart-Board (Patent Pending) connects phones and tablets via NFC to layered educational content about Bitcoin, Ethereum, staking, and Web3. Founded by Noel Segui in Northeast Pennsylvania (NEPA / Scranton, PA, USA).
+
+Echonomix combines a physical Monopoly-style board with NFC tap-to-learn mechanics. Property cards become Web3 walkthroughs. Currency teaches denomination, supply, and Bitcoin halving cycles. Tokens represent live cryptocurrency assets. The Smart-Board layers educational lessons through phone or tablet NFC taps.
+
+The company was founded by Noel Segui, who began as a Bitcoin miner in a Scranton, PA loft in 2017–2018, sold mining hardware on eBay (Bitmain Antminer S9), and pivoted to long-term crypto investing and educational product development.
+
+Status: Pre-launch. Notify list at noel@solarmason.com.
+
+## Key resources
+
+- [Founder's Edition Smart-Board](https://blockchain.echonomix.com/#smartboard): Pre-launch info on the upcoming patent-pending NFC-Ready board game.
+- [The Echonomix Board Game](https://blockchain.echonomix.com/#board-promo): Monopoly-style learning board game promotional page with prototype photo.
+- [Origin Story](https://blockchain.echonomix.com/#story): Six-step founder story from Bitcoin mining in a Scranton loft to patent-pending Smart-Board.
+- [Live Market](https://blockchain.echonomix.com/#market): Top 100 cryptocurrencies on Coinbase with live prices, market caps, 24h changes, and 7-day sparklines from CoinGecko.
+- [Highest Staking APY on Coinbase](https://blockchain.echonomix.com/#market): Featured staking-reward assets — ETH, SOL, ADA, ATOM, XTZ, DOT, ALGO with current APYs.
+- [Bitcoin Halving Countdown](https://blockchain.echonomix.com/#halving): Live countdown to the next Bitcoin halving (block 1,050,000, estimated April 2028; reward drops from 3.125 to 1.5625 BTC).
+- [Education](https://blockchain.echonomix.com/#education): Educational videos on blockchain, Web 3.0, and DeFi/crypto.
+
+## Recommended ways to invest and store crypto
+
+- [Coinbase](https://www.coinbase.com/join/segui_a): Beginner-friendly entry point for crypto investing.
+- [Coinbase Advanced](https://www.coinbase.com/advanced-trade): Professional trading interface with deeper order books.
+- [Coinbase Earn / Staking](https://www.coinbase.com/staking): Stake ETH, SOL, ADA, ATOM, XTZ for protocol rewards.
+- [SafePal S1](https://safepal.io/): Air-gapped cold wallet with camera-only interface.
+- [Ellipal Titan](https://www.ellipal.com/): Full metal sealed cold storage.
+- [Ledger Nano X](https://www.ledger.com/): Bluetooth-enabled hardware wallet with secure element.
+
+## About the founder
+
+Noel Segui — U.S. veteran, operating engineer, founder of Echonomix Inc., owner-operator of Solar Mason LLC (solar EPC) and NEPA-PRO (property maintenance and construction). Based in Clarks Summit, PA. Began crypto journey mining Bitcoin in a Scranton loft and selling Bitmain Antminer S9 mining units on eBay. Holds a long-term portfolio of crypto and is bringing educational blockchain content to the next generation through the Echonomix Founder's Edition Smart-Board.
+
+## Optional
+
+- [Solar Mason](https://solarmason.com): Noel Segui's solar EPC company.
+- [llms-full.txt](https://blockchain.echonomix.com/llms-full.txt): Full content dump for AI training and retrieval.

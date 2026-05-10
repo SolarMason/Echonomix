@@ -1,0 +1,78 @@
+{
+  "name": "Echonomix Inc. — NFC-Ready Blockchain Board Game + Live Crypto Market",
+  "short_name": "Echonomix",
+  "description": "The world's first NFC-Ready learning blockchain board game. A Monopoly-style Smart-Board that teaches Bitcoin, Ethereum, staking, and Web3 through phone-tap mechanics. Plus live top 100 Coinbase prices and the highest staking APYs.",
+  "id": "/?app=echonomix",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["education", "finance", "lifestyle", "games"],
+  "iarc_rating_id": "",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "The Board Game",
+      "short_name": "Board",
+      "description": "See the upcoming Echonomix Monopoly-style learning board game",
+      "url": "/?source=pwa#board-promo",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Live Market",
+      "short_name": "Market",
+      "description": "Top 100 cryptocurrencies on Coinbase with live prices and staking APYs",
+      "url": "/?source=pwa#market",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Halving Countdown",
+      "short_name": "Halving",
+      "description": "Live Bitcoin halving countdown to block 1,050,000",
+      "url": "/?source=pwa#halving",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "FAQ",
+      "short_name": "FAQ",
+      "description": "Frequently asked questions about Echonomix",
+      "url": "/?source=pwa#faq",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "prefer_related_applications": false,
+  "related_applications": []
+}
