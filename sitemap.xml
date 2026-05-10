@@ -20,6 +20,36 @@
       <image:loc>https://blockchain.echonomix.com/logo.png</image:loc>
       <image:title>Echonomix Inc. logo</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9849-500.jpg</image:loc>
+      <image:title>Mining Bitcoin in the Scranton loft</image:title>
+      <image:caption>Noel Segui with a working Bitmain Antminer S9 in the Scranton, Pennsylvania loft — the origin of Echonomix Inc.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9848-500.jpg</image:loc>
+      <image:title>Bitmain Antminer S9 setup</image:title>
+      <image:caption>Bitmain Antminer S9 ASIC miner — the Bitcoin mining hardware that started Echonomix.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9852-500.jpg</image:loc>
+      <image:title>Antminer S9 internals</image:title>
+      <image:caption>Internal view of a running Bitmain Antminer S9 mining Bitcoin in the Scranton loft.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9386-500.png</image:loc>
+      <image:title>eBay Antminer S9 listings</image:title>
+      <image:caption>eBay product listings for Bitcoin Antminer S9 with PSU pre-orders by Noel Segui, $1,300 to $3,400 per unit.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9389-500.png</image:loc>
+      <image:title>eBay seller dashboard — $16,600 / 10 sold</image:title>
+      <image:caption>eBay seller dashboard showing $16,600 in total sales across 10 Antminer S9 mining units in 60 days.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://echonomixcom.swipepages.media/2020/12/img_9690-500.png</image:loc>
+      <image:title>Coinbase Bitcoin price chart</image:title>
+      <image:caption>The Coinbase Bitcoin price chart that triggered the pivot from selling mining hardware to long-term crypto investing.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://blockchain.echonomix.com/#board-promo</loc>

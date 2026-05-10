@@ -8,7 +8,7 @@
  *   - Cache-first for same-origin static assets
  */
 
-const VERSION = 'echonomix-v1.4.0';
+const VERSION = 'echonomix-v1.5.0';
 const SHELL_CACHE = `${VERSION}-shell`;
 const STATIC_CACHE = `${VERSION}-static`;
 const FONT_CACHE = `${VERSION}-fonts`;
@@ -65,7 +65,7 @@ function isPriceAPI(url) {
 function isThirdPartyImage(url) {
   return (
     /cdn\.jsdelivr\.net/.test(url.hostname) ||
-    /media\.swipepages\.com/.test(url.hostname) ||
+    /swipepages\.media/.test(url.hostname) ||
     /www\.google\.com/.test(url.hostname)
   );
 }
